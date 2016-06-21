@@ -1,9 +1,9 @@
 #Emmet Tutorial, Meteor NYC Meetup, Tuesday, June 21, 2016
 ##The Basics
 
-####Type what you want, press <TAB> for Emmet magic :D--
+####Type what you want, press <TAB> for Emmet magic :D
     
-    `div<TAB>` (expands to) `<div></div>`
+    div<TAB> (expands to) <div></div>
     `p<TAB>` (expands to) `<p></p>`
   
     `custom-block<TAB>` (expands to) `<custom-block></custom-block>`
